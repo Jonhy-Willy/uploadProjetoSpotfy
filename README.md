@@ -6,7 +6,7 @@
 
 Projeto construído em aula com o professor João Tinti
 
-[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_Esports_Rocketseat/)
+[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/uploadProjetoSpotfy/)
 
 # 🛠 Tecnologias
 
